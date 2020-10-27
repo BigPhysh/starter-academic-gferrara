@@ -18,7 +18,7 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office Suite"
-  description = "Advanced experience with Word, PowerPoint, & Excel. Intermediate experience with using VBA to automate simple tasks, set up dashboards. Expert at using StackOverflow to cobble together working solutions."
+  description = "85%"
 
 [[feature]]
   icon = "desktop"
@@ -54,13 +54,13 @@ subtitle = ""
 icon = "git"
 icon_pack = "fab"
 name = "Git"
-description = "40%"
+description = "50%"
 
 [[feature]]
-icon = "git"
+icon = "markdown"
 icon_pack = "fab"
-name = "Git"
-description = "30%"
+name = "Markdown"
+description = "50%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
