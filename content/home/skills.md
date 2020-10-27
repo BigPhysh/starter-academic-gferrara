@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "microsoft"
   icon_pack = "fab"
-  name = "Microsoft Office"
-  description = "80%"
+  name = "Microsoft Office Suite"
+  description = "Advanced experience with Word, PowerPoint, & Excel. Intermediate experience with using VBA to automate simple tasks, set up dashboards. Expert at using StackOverflow to cobble together working solutions."
 
 [[feature]]
   icon = "desktop"
