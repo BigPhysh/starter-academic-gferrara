@@ -15,22 +15,52 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "microsoft"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Microsoft Office"
+  description = "80%"
+
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Knowledge Management"
+  description = "80%"
+
+[[feature]]
+  icon = "zotero"
+  icon_pack = "ai"
+  name = "Zotero"
+  description = "70%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "globe"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "ArcGIS"
+  description = "50%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "project-diagram"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Link Analysis"
+  description = "60%"
+
+[[feature]]
+  icon = "twitter-square"
+  icon_pack = "fab"
+  name = "Social Media Research/Verification"
+  description = "50%"
+
+[[feature]]
+icon = "git"
+icon_pack = "fab"
+name = "Git"
+description = "40%"
+
+[[feature]]
+icon = "git"
+icon_pack = "fab"
+name = "Git"
+description = "30%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
