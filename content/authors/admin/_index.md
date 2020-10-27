@@ -1,37 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Garrett Richard Ferrara
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Disinformation Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Student studying Rhetoric & Composition out of The University of Central Florida and Knowledge Management Specialist at Alegeus. Military Intelligence Veteran, Geek, & Cat Dad
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Community Learning & Knowledge Management
+- Disinformation & Misinformation
+- Rhetoric & Composition
+- Social Media Research
+- Cultural Anthropology, Ethnography & Netnography
+- Counterterrorism & Counterintelligence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Rhetoric & Composition - In Progress
+    institution: University of Central Florida
+    year: 2021
+  - course: BA in Anthropology, Minor in Writing & Rhetoric
+    institution: University of Central Florida
+    year: 2019
+  - course: AS in Intelligence Operations
+    institution: Cochise Community College
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +46,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/Big_Physh
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Garrett Richard Ferrara is a student of Rhetoric & Composition at the University of Central Florida. His research interests include using ethnographic and social media research methodologies to study why we trust the information we trust. Specific interests include Community Knowledge Management, Disinformation & Misinformation, and online radicalization. He believes that the public is owed a comprehensive strategy to combat disinformation online and that we can arm the public against disinformation through composition education and community organization. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Currently employed as a Knowledge Management Specialist in Alegeus' Process Innovation Department conducting workplace research and managing Alegeus' Knowledge/Content Management Platform.
+
+
+
